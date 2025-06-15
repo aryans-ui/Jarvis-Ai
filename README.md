@@ -1,4 +1,7 @@
-![Jarvis Banner](./Frontend/Graphics/Jarvis-Banner.png)
+<p align="center">
+  <img src="Frontend/Graphics/Jarvis_banner.png" alt="Jarvis AI Banner" width="800"/>
+</p>
+
 
 # 🧠 Jarvis – AI Desktop Assistant
 
