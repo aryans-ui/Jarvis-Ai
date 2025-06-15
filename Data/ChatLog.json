@@ -1,0 +1,170 @@
+[
+    {
+        "role": "user",
+        "content": "hii"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Aryan Singh! It's nice to meet you. Is there something I can help you with?"
+    },
+    {
+        "role": "user",
+        "content": "who is john cena"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided search results, John Cena is an American actor and professional wrestler. He has been signed to WWE (World Wrestling Entertainment) since 2001 and is currently the Undisputed WWE Champion in his record 14th reign, which is also his 17th WWE world championship."
+    },
+    {
+        "role": "user",
+        "content": "hii"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi again!"
+    },
+    {
+        "role": "user",
+        "content": "vi stock price"
+    },
+    {
+        "role": "assistant",
+        "content": "As of my knowledge cutoff, the stock price of Visa Inc. (V) is $223.15."
+    },
+    {
+        "role": "user",
+        "content": " vi stock price"
+    },
+    {
+        "role": "assistant",
+        "content": "The current stock price of Visa Inc. (V) is $224.91."
+    },
+    {
+        "role": "user",
+        "content": " vi stock price"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, the current stock price of Vodafone Idea Ltd (VI) is \u20b97.05."
+    },
+    {
+        "role": "user",
+        "content": "Hello hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello back to you!"
+    },
+    {
+        "role": "user",
+        "content": "What's going on?"
+    },
+    {
+        "role": "assistant",
+        "content": "Just chatting with you, Aryan Singh!"
+    },
+    {
+        "role": "user",
+        "content": "Nice to meet you."
+    },
+    {
+        "role": "assistant",
+        "content": "Likewise! It's nice to meet you too, Aryan."
+    },
+    {
+        "role": "user",
+        "content": "Hello how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thank you!"
+    },
+    {
+        "role": "user",
+        "content": "Hello what's your name?"
+    },
+    {
+        "role": "assistant",
+        "content": "My name is None."
+    },
+    {
+        "role": "user",
+        "content": "But i assigned your name as jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the confusion! You are correct, you assigned my name as None, not Jarvis."
+    },
+    {
+        "role": "user",
+        "content": "Assign your name is jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "From now on, I'll respond as Jarvis."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello! I'm Jarvis."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello again!"
+    },
+    {
+        "role": "user",
+        "content": "Han kya."
+    },
+    {
+        "role": "assistant",
+        "content": "I think you're asking \"What's up?\" in Hindi. I'm doing well, thanks!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "who is erol musk"
+    },
+    {
+        "role": "assistant",
+        "content": "I think you meant \"Who is Elon Musk is a South African-born entrepreneur, inventor, and business magnate. He is the CEO and CTO of SpaceX, CEO of Neuralink, and CEO of The Boring Company."
+    },
+    {
+        "role": "user",
+        "content": "ok"
+    },
+    {
+        "role": "assistant",
+        "content": "You're welcome!"
+    },
+    {
+        "role": "user",
+        "content": "search facebook"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, \"search facebook\" yields several options:\n\n1. Facebook Graph Search\n* Search on Facebook | Facebook Help Center\n3. Search in people - Facebook\n4. Search | Facebook Help Center\n5. Facebook Search \u2013 Find Posts and Person Profiles - Social Searcher\n\nLet me know if you'd like me to elaborate on any of these options!"
+    }
+]
